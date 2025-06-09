@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HadayaFikriNA</string>
+    <string name="logo">My Persona APP</string>
+    <string name="gallery_image">Gallery</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="myapp">Welcome To My Self APP ^-^</string>
+    <string name="aku">Ga Selalu Paham Diri Sendiri, Tapi Tetep Keren (Kadang :))</string>
+    <string name="diri">Kenali dirimu lebih dalam, temukan sisi terbaikmu.</string>
+    <string name="dsi">Apa Aja Yang Ada Disini ?</string>
+    <string name="alat">Didalam Aplikasi ini Terdapat Page Page yang Menceritakan Diri Saya.</string>
+    <string name="cerita">Ini kumpulan cerita, catatan, mimpi, keresahan, dan momen-momen refleksi diri.</string>
+    <string name="refleksi">Ini kumpulan cerita, catatan, mimpi, keresahan, dan momen-momen refleksi diri.</string>
+    <string name="mulai">Mulai Sekarang ! </string>
+    <string name="ter">Jelajahi isi kepalaku, dan siapa tahu…Kamu juga bisa lebih kenal sama dirimu sendiri lewat cerita ini.</string>
+</resources>
